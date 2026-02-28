@@ -1,5 +1,5 @@
 # Hello, I'm Daniel Okhman
-<a href="www.linkedin.com/in/daniel-okhman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/daniel-okhman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an ambitious and technical-minded electrical engineering student, with hands-on experience in troubleshooting and resolving problems. Seeking to progress career development and expand expertise. Aiming to leverage my knowledge of electrical systems, development, programming, and problem-solving skillsets in a professional setting.
 
