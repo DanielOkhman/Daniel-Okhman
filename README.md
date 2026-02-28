@@ -17,7 +17,7 @@ My journey in math and science has led me to develop a passion for Engineering, 
 Custom-designed brushless DC motor including stator winding,
 rotor magnet configuration, and performance testing.
 
-[View Project →](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-Build)
+[View Project →](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build)
 
 ---
 
