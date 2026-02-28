@@ -5,6 +5,10 @@ I am an ambitious and technical-minded electrical engineering student, with hand
 This portfolio highlights major design and build projects demonstrating
 problem-solving, system integration, and applied engineering principles.
 
+## Objective
+
+My journey in math and science has led me to develop a passion for Engineering, and I am now eager to transition into this field, specifically aiming to join a team as an Electrical Engineer.
+
 ---
 
 ## Projects
