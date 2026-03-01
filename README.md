@@ -29,7 +29,7 @@ rotor magnet configuration, and performance testing.
 Mechanical and electrical restoration project involving
 structural repair, drivetrain systems, and diagnostics.
 
-[View Project →](https://github.com/YOUR-USERNAME/acura-ilx-rebuild)
+[View Project →](https://github.com/DanielOkhman/acura-ilx-rebuild)
 
 ---
 
@@ -37,15 +37,15 @@ structural repair, drivetrain systems, and diagnostics.
 Design and construction of a precision CNC machine including
 mechanical frame, motion control system, and electronics integration.
 
-[View Project →](https://github.com/YOUR-USERNAME/cnc-machine-build)
+[View Project →](https://github.com/DanielOkhman/cnc-machine-build)
 
 ---
 
-### 🔴 Airless Tire 3D Printed Prototype
-Additive manufacturing prototype exploring lattice structures
-for load-bearing and flexible tire applications.
+### 🔴 Man Of Okh
+Design and fabrication of custom epoxy furniture combining woodworking, 
+epoxy work, and high quality finish.
 
-[View Project →](https://github.com/YOUR-USERNAME/airless-tire-prototype)
+[View Project →](https://github.com/DanielOkhman/Man-Of-Okh)
 
 
 
