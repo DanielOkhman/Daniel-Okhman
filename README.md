@@ -43,7 +43,7 @@ mechanical frame, motion control system, and electronics integration.
 
 ### 🔴 Man Of Okh
 Design and fabrication of custom epoxy furniture combining woodworking, 
-epoxy work, and high quality finish.
+epoxy, and high quality finish.
 
 [View Project →](https://github.com/DanielOkhman/Man-Of-Okh)
 
