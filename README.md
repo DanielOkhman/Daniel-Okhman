@@ -13,7 +13,7 @@ My journey in math and science has led me to develop a passion for Engineering, 
 
 ## Projects
 
-### 🔹 Brushless DC (BLDC) Motor Design & Build
+### Brushless DC (BLDC) Motor Design & Build
 Custom-designed brushless DC motor including stator winding,
 rotor magnet configuration, and performance testing.
 
@@ -21,7 +21,15 @@ rotor magnet configuration, and performance testing.
 
 ---
 
-### 🔹 CNC Machine Design & Build
+### Acura ILX Full System Rebuild
+Mechanical and electrical restoration project involving
+structural repair, drivetrain systems, and diagnostics.
+
+[View Project →](https://github.com/YOUR-USERNAME/acura-ilx-rebuild)
+
+---
+
+### CNC Machine Design & Build
 Design and construction of a precision CNC machine including
 mechanical frame, motion control system, and electronics integration.
 
@@ -29,16 +37,11 @@ mechanical frame, motion control system, and electronics integration.
 
 ---
 
-### 🔹 Airless Tire 3D Printed Prototype
+### Airless Tire 3D Printed Prototype
 Additive manufacturing prototype exploring lattice structures
 for load-bearing and flexible tire applications.
 
 [View Project →](https://github.com/YOUR-USERNAME/airless-tire-prototype)
 
----
 
-### 🔹 Acura ILX Full System Rebuild
-Mechanical and electrical restoration project involving
-structural repair, drivetrain systems, and diagnostics.
 
-[View Project →](https://github.com/YOUR-USERNAME/acura-ilx-rebuild)
