@@ -19,6 +19,9 @@ rotor magnet configuration, and performance testing.
 
 [View Project →](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build)
 
+<p align="center">
+  <img src="IMG_65382.jpeg" width="150">
+</p>
 ---
 
 ### 🔴 Acura ILX Full System Rebuild
