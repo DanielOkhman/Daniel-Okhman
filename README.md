@@ -66,3 +66,6 @@ Head of organizing and leading a youth church service
 
 [View Project →](https://github.com/DanielOkhman/Church-Leadership)
 
+<p align="center">
+<img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b159ded186ff361f2ced3b16d78601b0a794abc5/Man%20Of%20Okh.JPG" width="400">
+</p>  
