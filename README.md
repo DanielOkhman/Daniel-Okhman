@@ -59,3 +59,10 @@ epoxy, and high quality finish.
 </a>
 </p> 
 
+---
+
+### 🔴 Church Leadership
+Head of organizing and leading a youth church service
+
+[View Project →](https://github.com/DanielOkhman/Church-Leadership)
+
