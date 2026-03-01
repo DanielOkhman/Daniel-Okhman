@@ -67,5 +67,5 @@ Head of organizing and leading a youth church service
 [View Project →](https://github.com/DanielOkhman/Church-Leadership)
 
 <p align="center">
-<img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/8f50eb6113c0deb83a5f1b8cebff376b6215ba15/Word%20Of%20Life.jpg" width="400">
+<img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/8f50eb6113c0deb83a5f1b8cebff376b6215ba15/Word%20Of%20Life.jpg" width="300">
 </p>  
