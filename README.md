@@ -47,7 +47,8 @@ epoxy, and high quality finish.
 
 [View Project →](https://github.com/DanielOkhman/Man-Of-Okh)
 
-<img src="https://raw.githubusercontent.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/main/images/motor-assembly.jpg" width="400">
-
+<p align="center">
+<img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b159ded186ff361f2ced3b16d78601b0a794abc5/Man%20Of%20Okh.JPG" width="400">
+</p>  
 
 
