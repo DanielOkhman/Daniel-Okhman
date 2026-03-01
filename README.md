@@ -47,8 +47,15 @@ epoxy, and high quality finish.
 
 [View Project →](https://github.com/DanielOkhman/Man-Of-Okh)
 
+
+
 <p align="center">
 <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b159ded186ff361f2ced3b16d78601b0a794abc5/Man%20Of%20Okh.JPG" width="400">
 </p>  
 
+<p align="center">
+<a href="https://www.instagram.com/man_of_okh/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p> 
 
