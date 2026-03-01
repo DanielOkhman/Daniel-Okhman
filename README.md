@@ -25,7 +25,7 @@ rotor magnet configuration, and performance testing.
 
 ---
 
-### 🔴 Acura ILX Full System Rebuild
+### 🔴 Acura ILX Rebuild
 Mechanical and electrical restoration project involving
 structural repair, drivetrain systems, and diagnostics.
 
