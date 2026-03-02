@@ -37,7 +37,13 @@ structural repair, drivetrain systems, and diagnostics.
 Design and construction of a precision CNC machine including
 mechanical frame, motion control system, and electronics integration.
 
+
 [View Project →](https://github.com/DanielOkhman/CNC-Machine-Design-Build)
+
+<p align="center">
+<img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/108d3133b9edc2c83200beb2f67ec65a613659c5/IMG_7029.jpg" width="400">
+</p>   
+
 
 ---
 
