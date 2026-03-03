@@ -67,6 +67,16 @@ epoxy, and high quality finish.
 
 ---
 
+### 🔴 Lockheed Martin Ethics in Engineering Participant
+
+<p align="center">
+  <img src="IMAGE_LINK_1" width="30%" />
+  <img src="IMAGE_LINK_2" width="30%" />
+  <img src="IMAGE_LINK_3" width="30%" />
+</p>
+
+---
+
 ### 🔴 Church Leadership
 Head of organizing and leading a youth church service
 
