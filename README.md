@@ -79,6 +79,7 @@ epoxy, and high quality finish.
 
 ### 🔴 Church Leadership
 Head of organizing and leading youth church services
+
 Sunday School Teacher
 
 [View Project →](https://github.com/DanielOkhman/Church-Leadership)
