@@ -27,7 +27,7 @@ rotor magnet configuration, and performance testing.
 
 ### 🔴 Acura ILX Rebuild
 Mechanical and electrical restoration project involving
-structural repair, drivetrain systems, and diagnostics.
+structural repair, electrical work, and body replacement.
 
 [View Project →](https://github.com/DanielOkhman/acura-ilx-rebuild)
 
