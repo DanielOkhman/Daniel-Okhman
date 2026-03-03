@@ -70,9 +70,9 @@ epoxy, and high quality finish.
 ### 🔴 Lockheed Martin Ethics in Engineering Participant
 
 <p align="center">
-  <img src="IMAGE_LINK_1" width="30%" />
-  <img src="IMAGE_LINK_2" width="30%" />
-  <img src="IMAGE_LINK_3" width="30%" />
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/db3d26984d45ab60ae57af731116ec91bb00e84d/LM1.jpeg" width="40%" />
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/db3d26984d45ab60ae57af731116ec91bb00e84d/LM2.jpeg" width="16%" />
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/db3d26984d45ab60ae57af731116ec91bb00e84d/LM3.jpeg" width="40%" />
 </p>
 
 ---
