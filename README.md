@@ -20,7 +20,7 @@ rotor magnet configuration, and performance testing.
 [View Project →](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build)
 
 <p align="center">
-  <img src="IMG_65382.jpeg" width="450">
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/2d3776b7b75e0d693b0c8db56d9db0705b661322/EMotor.jpeg" width="450">
 </p>  
 
 ---
