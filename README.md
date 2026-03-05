@@ -20,7 +20,7 @@ rotor magnet configuration, and performance testing.
 [View Project →](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build)
 
 <p align="center">
-  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/2d3776b7b75e0d693b0c8db56d9db0705b661322/EMotor.jpeg" width="450">
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/2d3776b7b75e0d693b0c8db56d9db0705b661322/EMotor.jpeg" width="400">
 </p>  
 
 ---
@@ -32,7 +32,7 @@ structural repair, electrical work, and body replacement.
 [View Project →](https://github.com/DanielOkhman/acura-ilx-rebuild)
 
 <p align="center">
-  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b67f14cc6c00100cfcefc7b549e4ea54589d4ab8/AcuraFront.jpeg" width="450">
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b67f14cc6c00100cfcefc7b549e4ea54589d4ab8/AcuraFront.jpeg" width="400">
 </p>  
 
 ---
