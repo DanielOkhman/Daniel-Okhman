@@ -31,6 +31,10 @@ structural repair, electrical work, and body replacement.
 
 [View Project →](https://github.com/DanielOkhman/acura-ilx-rebuild)
 
+<p align="center">
+  <img src="https://github.com/DanielOkhman/Daniel-Okhman/blob/b67f14cc6c00100cfcefc7b549e4ea54589d4ab8/AcuraFront.jpeg" width="450">
+</p>  
+
 ---
 
 ### 🔴 CNC Machine Design & Build
